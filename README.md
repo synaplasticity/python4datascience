@@ -1,2 +1,2 @@
 # python4datascience
-bumpy, Pandas, Matlibplot
+Numpy, Pandas, Matlibplot
